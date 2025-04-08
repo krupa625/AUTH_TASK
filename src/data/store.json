@@ -1,0 +1,105 @@
+{
+  "admins": [
+    {
+      "email": "admin@gmail.com",
+      "password": 1234
+    }
+  ],
+  "users": [
+    {
+      "email": "pkripa42@gmail.com"
+    },
+    {
+      "email": "pkrupa15@gmail.com"
+    },
+    {
+      "email": "krupapatel1574@gmail.com"
+    }
+  ],
+  "cars": [
+    {
+      "iId": "e69d3793-ed6e-4552-baf1-53e3eac7cd4b",
+      "sName": "fortuner",
+      "sColor": "Petrol",
+      "sFuel": "Altis",
+      "sModel": "blue",
+      "nYear": 2023
+    },
+    {
+      "iId": "7344570f-a80e-4213-9560-70db917038df",
+      "sName": "ertiga",
+      "sColor": "Petrol",
+      "sFuel": "Altis",
+      "sModel": "blue",
+      "nYear": 2023
+    },
+    {
+      "iId": "76834000-28d9-426d-bc1e-213b4bb6c9b7",
+      "sName": "audi",
+      "sColor": "Petrol",
+      "sFuel": "Altis",
+      "sModel": "blue",
+      "nYear": 2023
+    },
+    {
+      "iId": "f93f0259-8fa2-4ab3-bd4c-c7925aead706",
+      "sName": "ecco",
+      "sColor": "Petrol",
+      "sFuel": "Altis",
+      "sModel": "blue",
+      "nYear": 2023
+    },
+    {
+      "iId": "251ff769-2e5a-476e-a4d2-71c4f4811213",
+      "sName": "innova",
+      "sColor": "CNG",
+      "sFuel": "zxi",
+      "sModel": "zxi",
+      "nYear": 2024
+    },
+    {
+      "iId": "aad704af-4e15-43d1-b228-28ad1cbb3c58",
+      "sName": "Audi",
+      "sColor": "Petrol",
+      "sFuel": "A4",
+      "sModel": "white",
+      "nYear": 2024
+    },
+    {
+      "iId": "aa44311d-e966-4ba6-8727-52be238377bb",
+      "sName": "Audi3",
+      "sColor": "Petrol",
+      "sFuel": "A4",
+      "sModel": "white",
+      "nYear": 2024
+    },
+    {
+      "iId": "03a7b84f-6701-461a-b8de-fcae8e735dcc",
+      "sName": "Audi1",
+      "sColor": "Petrol",
+      "sFuel": "A4",
+      "sModel": "white",
+      "nYear": 2024
+    }
+  ],
+  "adminSessions": {
+    "admin@gmail.com": [
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0NDEwNjUwNiwiZXhwIjoxNzQ1NDAyNTA2fQ.pyNqn5xAJMrywOrvHrWa3uObDOa0BKbuASHTV21i1q0",
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0NDEwNjUxOSwiZXhwIjoxNzQ1NDAyNTE5fQ.40bnLg8n9rRZToEluxteIOs5stzjeEc-HrWvHjUxN3M"
+    ]
+  },
+  "userSessions": {
+    "pkripa42@gmail.com": [
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBrcmlwYTQyQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ0MDkyMDY3LCJleHAiOjE3NDUzODgwNjd9.dmfpx3ym8Mq8w19pE0lvmY3-3L6rrMVDf1r8xvielg4",
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBrcmlwYTQyQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ0MTA2NjY3LCJleHAiOjE3NDU0MDI2Njd9.sYzaQ3-yLImbiS_Wh9vfrF2BYiW6N_hs53Hlw_PWcmE"
+    ],
+    "pkrupa15@gmail.com": [
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBrcnVwYTE1QGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ0MDkxOTk1LCJleHAiOjE3NDUzODc5OTV9.qupkmhu-mdOLDkKA0FEeXVBZ4pZUpPUBDDHMGDDEodw",
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBrcnVwYTE1QGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ0MDkyMDM4LCJleHAiOjE3NDUzODgwMzh9.RCm3vPGYmId2HOKPg03POd6g3SKkAi-JnJWoGuJ0mds"
+    ],
+    "krupapatel1574@gmail.com": [
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtydXBhcGF0ZWwxNTc0QGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ0MDkxOTM5LCJleHAiOjE3NDUzODc5Mzl9.zVp0zFMD-kHxrFQ93fvjm7i7MdaE_rdPQRnCdHkFRBs"
+    ]
+  },
+  "otps": {}
+}
